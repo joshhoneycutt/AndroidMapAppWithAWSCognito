@@ -1,4 +1,4 @@
-# AndroidAppWithAWSCognito
+# Android Map App With AWS Cognito
 Basic Android Map (Google Maps) App With AWS Cognito (User Sign In)
 
 ## User Setup
